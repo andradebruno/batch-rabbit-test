@@ -1,0 +1,26 @@
+[
+  { "codTransaction" : "d67531eb-82da-4243-a506-46f38d274e64",
+    "codCostumer": "COD:0001",
+    "accountFrom": "1",
+    "accountTo": "2",
+    "value": "20.00"
+  },
+  { "codTransaction" : "b0384af0-8363-49a6-a963-34f7f7ed7d70",
+    "codCostumer": "COD:0001",
+    "accountFrom": "2",
+    "accountTo": "63",
+    "value": "5.00"
+  },
+  { "codTransaction" : "3e7f7852-b96f-4b0b-8a56-e5ebde5e7aae",
+    "codCostumer": "COD:0001",
+    "accountFrom": "3",
+    "accountTo": "4",
+    "value": "10.00"
+  },
+  { "codTransaction" : "45e1b4d6-d48f-4112-a2fc-3be6468d5e33",
+    "codCostumer": "COD:0001",
+    "accountFrom": "5",
+    "accountTo": "2",
+    "value": "15.00"
+  }
+]
